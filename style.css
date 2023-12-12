@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: beige;
+  color: maroon;
+}
+canvas {
+  display: block;
+  margin: auto;
+}
+
+h1 {
+  font-family: 'Jost';
+  font-size: xxx-large
+  margin: auto;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+h2 {
+  font-family: 'Jost';
+  font-size: xxx-large
+  margin: auto;
+  text-align: center;
+  padding-bottom: 10px;
+}
